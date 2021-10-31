@@ -1,19 +1,27 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'City Stats',
+    description: `Discover userful stats about any city you'd like to learn more about with this single page app.`,
+    imgSrc: '/static/images/citystats.png',
+    href: 'https://citystats.netlify.app/',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten handphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Easy Bank Landing Page',
+    description: `This is a fun design to code challenge where I built a landing page using Tailwind CSS.`,
+    imgSrc: '/static/images/easybank-landing.jpg',
+    href: 'https://easybank-landing.vercel.app/',
+  },
+  {
+    title: 'Github User Stats',
+    description: `Easily enter a GitHub username and find all the information about that users’ projects, starred repos, website, company, location, etc…`,
+    imgSrc: '/static/images/git-stats.png',
+    href: 'https://reactjsgithubfinder.netlify.com/',
+  },
+  {
+    title: 'Momentum Dashboard Clone',
+    description: `My own custom version of the Momentum Dashboard built with React.js.`,
+    imgSrc: '/static/images/momentum.png',
+    href: 'https://momentumdash.netlify.com/',
   },
 ]
 

@@ -1,16 +1,20 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Valentina Calabrese
+avatar: /static/images/avatar.jpg
+occupation: Front-end Software Engineer
+company: Cloud Academy
+email: frontendvale@gmail.com
+twitter: https://twitter.com/CherriePie4897
+linkedin: https://www.linkedin.com/in/calabresevalentina
+github: https://github.com/vale-c
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hey there! 👋🏻
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+My name is Valentina and I am a passionate **Front-end Software Engineer** with a knack for [Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6) and a special interest in [UCD](https://en.wikipedia.org/wiki/User-centered_design) & a11y best-practices.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I genuinely enjoy thinking about Usability, and love to make great Designs come to life through `<code />`.
+
+<hr />
+
+Feel free to get a copy of my [CV](https://drive.google.com/file/d/1BWQfwZdzvKgJEWsxtYdsTVaXvOQ8YwqN/view?usp=sharing) if you wanna learn something more about my background and experience.

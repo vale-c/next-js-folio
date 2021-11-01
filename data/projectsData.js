@@ -14,7 +14,7 @@ const projectsData = [
   {
     title: 'Github User Stats',
     description: `Easily enter a GitHub username and find all the information about that users’ projects, starred repos, website, company, location, etc…`,
-    imgSrc: '/static/imagesprojects/git-stats.png',
+    imgSrc: '/static/images/projects/git-stats.png',
     href: 'https://reactjsgithubfinder.netlify.com/',
   },
   {

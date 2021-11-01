@@ -1,6 +1,5 @@
 ---
 category: 'blog'
-cover: './mailchimp-logo.jpg'
 title: 'A New Adventure 🔥'
 description: 'Exciting news!'
 date: '2019-04-16'
@@ -8,7 +7,9 @@ tags: ['Mailchimp', 'Internship Offer', 'UX Engineer']
 published: true
 ---
 
-Hey there,
+![mailchimp-logo](/static/images/blog-posts/mailchimp-logo.jpg)
+
+**Hey** there,
 
 if you're reading this, well I'm glad you landed on this page and I hope you're gonna enjoy the content ahead 😊.
 

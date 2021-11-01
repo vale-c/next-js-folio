@@ -1,12 +1,13 @@
 ---
 category: 'blog'
-cover: './goodbye-2020.jpg'
 title: 'Sayonara 2020 👋🏻'
 description: 'A few thoughts on 2020 😶.'
 date: '2020-12-31'
-tags: ['2020', 'Reflections', 'Life', '2021 Resolutions']
+tags: ['2020', 'Reflections', 'New Year Resolutions', 'Life']
 published: true
 ---
+
+![2020](/static/images/blog-posts/goodbye-2020.jpg)
 
 **2020**, what a year.
 

@@ -1,12 +1,13 @@
 ---
 category: 'blog'
-cover: './new-york.jpg'
 title: 'A dream come true'
 description: 'Flying to NY 🗽'
 date: '2018-06-12'
 tags: ['Adobe', 'Internship', 'New York']
 published: true
 ---
+
+![new-york](/static/images/blog-posts/new-york.jpg)
 
 I still can't believe what I am about to write, because if they had told me about it a couple of years ago I would have most certainly laughed in disbelief.
 

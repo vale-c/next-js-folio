@@ -1,12 +1,13 @@
 ---
 category: 'blog'
-cover: './resilience.jpg'
 title: 'Resilience'
 description: 'The importance of being unshakable.'
 date: '2018-06-12'
 tags: ['Resilience', 'Motivation', 'Thoughts']
 published: true
 ---
+
+![resilience](/static/images/blog-posts/maple.jpg)
 
 Resilience.
 

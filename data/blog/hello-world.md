@@ -1,12 +1,13 @@
 ---
 category: 'blog'
-cover: './hello-world.jpg'
 title: 'Hello World'
 description: 'Welcome to my Portfolio Website!'
 date: '2018-04-05'
 tags: ['Hello World', 'Hi', 'Welcome']
 published: true
 ---
+
+![hello-world](/static/images/blog-posts/hello-world.jpg)
 
 Hey!
 

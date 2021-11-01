@@ -1,12 +1,13 @@
 ---
 category: 'blog'
-cover: './hci.png'
 title: 'Updates! 📰'
 description: 'Quick updates about OMSCS & HCI.'
 date: '2021-03-29'
 tags: ['2021', 'OMSCS', 'HCI']
 published: true
 ---
+
+![omscs-hci](/static/images/blog-posts/hci.png)
 
 Hey there, it's been a while since I haven't updated the blog, but here I am with a few updates. 📰
 

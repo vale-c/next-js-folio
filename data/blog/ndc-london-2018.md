@@ -1,12 +1,13 @@
 ---
 category: 'blog'
-cover: './ndc-london-2018.jpg'
-title: 'NDC LONDON 2018 🇬🇧'
+title: 'NDC LONDON 2018'
 description: 'My experience at NDC London'
 date: '2018-01-30'
 tags: ['NDC', 'London', 'Tech', 'Conference']
 published: true
 ---
+
+![ndc--london-2018](/static/images/blog-posts/ndc-london-2018.jpg)
 
 ## Day 1
 
@@ -31,13 +32,9 @@ He gives us a mission: our task is to recreate the NDC agenda webpage using Reac
 
 Luckily, though, he’s always there ready to help us when we face any problems in structuring our application and he assists us during the whole process by giving us examples and extra challenges to implement inside the Web App.
 
-<br>
+> "Any sufficiently advanced technology is equivalent to magic".
 
-> > # ❝Any sufficiently advanced technology is equivalent to magic.
-
-> > Sir Arthur C. Clarke
-
-<br>
+> Sir Arthur C. Clarke
 
 ## Day 2
 
@@ -47,8 +44,6 @@ It’s definitely challenging to catch up with so many new inputs, but Jake is a
 
 React is such a very powerful JS library with an impressive potential, even though the learning curve is pretty steep for those who aren’t familiar with JavaScript and its syntax.
 
-<br>
-
 ## Day 3
 
 Today is the first actual day of NDC and I am absolutely thrilled about all the upcoming talks and great people who are going to present their ideas regarding innovative topics in the realm of Technology.
@@ -57,7 +52,7 @@ Today is the first actual day of NDC and I am absolutely thrilled about all the 
 
 The first speaker is **Felienne**, Assistant Professor at Delft University of Technology, who’s going to provide insights to answer the tough question:
 
-What is programming anyway?
+> What is programming anyway?
 
 Her speech was truly inspirational and unconventional (she’s so funny and down-to-earth), and she talked about the ups and downs about her journey as a PHD Candidate and the research she carried on regarding the conception of Spreadsheets as an actual programming tool, which even though turned out to be a failure (since she realised she wasn’t genuinely interested in pursuing this kind of project) was ultimately what led her to find her real passion.
 

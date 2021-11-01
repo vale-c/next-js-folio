@@ -1,12 +1,13 @@
 ---
 category: 'blog'
-cover: './mailchimp-internship-cover.jpg'
 title: 'My Mailchimp Internship Experience 💛'
 description: '12 weeks in Atlanta.'
 date: '2019-08-25'
 tags: ['Internship', 'Mailchimp', 'UX']
 published: true
 ---
+
+![mailchimp-internship](/static/images/blog-posts/mailchimp-internship-cover.jpg)
 
 ## 12 incredible Weeks as a UX Designer Intern
 

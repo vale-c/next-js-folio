@@ -1,12 +1,13 @@
 ---
 category: 'blog'
-cover: './the-fox-magazine.png'
 title: 'Remote Internship at the Fox Magazine 🦊'
 description: 'To new beginnings'
 date: '2019-01-12'
 tags: ['The Fox Magazine', 'Internship Offer', 'Editorial']
 published: true
 ---
+
+![the-fox-magazine](/static/images/blog-posts/the-fox-magazine.png)
 
 I'm gonna be working with The Fox Magazine as an Editorial Intern!
 

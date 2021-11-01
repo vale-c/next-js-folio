@@ -1,6 +1,5 @@
 ---
 category: 'blog'
-cover: './ai.jpg'
 title: 'Summer 2021'
 description: 'Taking a quick Summer break.'
 date: '2021-05-22'
@@ -8,7 +7,9 @@ tags: ['Summer 2021', 'OMSCS']
 published: true
 ---
 
-Hey there, here I am with a quick update. 📰
+![summer-break](/static/images/blog-posts/ai.jpg)
+
+**Hey** there, here I am with a quick update. 📰
 
 I officially finished my Spring 2021 semester at Georgia Tech with my class in Human Computer Interaction, and I gotta confirm that overall it's been an enjoyable experience that allowed me to further expand my knowledge in the UX field and gave me such a broader perspective on things.
 

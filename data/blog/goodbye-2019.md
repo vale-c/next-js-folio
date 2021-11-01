@@ -1,6 +1,5 @@
 ---
 category: 'blog'
-cover: './goodbye-2019.jpg'
 title: 'Goodbye 2019 👋🏻'
 description: 'A few thoughts on 2019.'
 date: '2019-12-25'
@@ -8,9 +7,11 @@ tags: ['2019', 'Reflections', 'Life']
 published: true
 ---
 
+![goodbye-2019](/static/images/blog-posts/goodbye-2019.jpg)
+
 What a year.
 
-2019 has truly been such an eventful year for multiple reasons.
+**2019** has truly been such an eventful year for multiple reasons.
 
 It has allowed me to grow in ways I'd have never imagined, both as Developer and more in general as an aspiring human being 👽.
 

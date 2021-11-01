@@ -1,12 +1,13 @@
 ---
 category: 'blog'
-cover: './behance-office.jpg'
 title: 'My Adobe Internship'
 description: '3 months in NY'
 date: '2018-11-03'
 tags: ['Adobe', 'Internship Offer', 'Front-end Engineer']
 published: true
 ---
+
+![behance-office](/static/images/blog-posts/behance-office.jpg)
 
 Hey there!
 

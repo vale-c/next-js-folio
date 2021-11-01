@@ -1,12 +1,13 @@
 ---
 category: 'blog'
-cover: './design-principles.jpg'
 title: 'Design Principles 🎨 and why they matter (a lot)'
 description: 'Quick updates about OMSCS & HCI.'
 date: '2021-06-02'
 tags: ['Design Principles', 'Design Systems', 'UX', 'UI', '🎨']
 published: true
 ---
+
+![design-principles](/static/images/blog-posts/design-principles.jpg)
 
 Design Principles are one of those key ingredients that shape the actual perceived usability & vision of a certain product under the hood, and that at a first glance could almost appear as the output of a bunch of meaningless marketing jargon but whose real purpose goes so far beyond that.
 

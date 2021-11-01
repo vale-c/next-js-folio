@@ -7,7 +7,7 @@ tags: ['2019', 'Reflections', 'Life']
 published: true
 ---
 
-![goodbye-2019](/static/images/blog-posts/goodbye-2019.jpg)
+![goodbye-2019](/static/images/blog-posts/2019.jpg)
 
 What a year.
 

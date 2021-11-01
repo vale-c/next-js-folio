@@ -3,11 +3,11 @@ category: 'blog'
 title: 'NDC LONDON 2018'
 description: 'My experience at NDC London'
 date: '2018-01-30'
-tags: ['NDC', 'London', 'Tech', 'Conference']
+tags: ['NDC', 'London', 'Tech', 'Conference', '2018']
 published: true
 ---
 
-![ndc--london-2018](/static/images/blog-posts/ndc-london-2018.jpg)
+![ndc--london-2018](/static/images/blog-posts/london-2018.jpg)
 
 ## Day 1
 

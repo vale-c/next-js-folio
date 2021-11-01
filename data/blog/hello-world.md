@@ -7,7 +7,7 @@ tags: ['Hello World', 'Hi', 'Welcome']
 published: true
 ---
 
-![hello-world](/static/images/blog-posts/hello-world.jpg)
+![hello-world](/static/images/blog-posts/hello.jpg)
 
 Hey!
 

@@ -7,7 +7,7 @@ tags: ['Internship', 'Mailchimp', 'UX']
 published: true
 ---
 
-![mailchimp-internship](/static/images/blog-posts/mailchimp-internship-cover.jpg)
+![mailchimp-internship](/static/images/blog-posts/mailchimp-interns.jpg)
 
 ## 12 incredible Weeks as a UX Designer Intern
 

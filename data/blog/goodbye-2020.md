@@ -7,7 +7,7 @@ tags: ['2020', 'Reflections', 'New Year Resolutions', 'Life']
 published: true
 ---
 
-![2020](/static/images/blog-posts/goodbye-2020.jpg)
+![2020](/static/images/blog-posts/2020.jpg)
 
 **2020**, what a year.
 

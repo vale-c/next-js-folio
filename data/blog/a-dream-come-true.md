@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-title: 'A dream come true'
+title: 'A dream come true 🥰'
 description: 'Flying to NY 🗽'
 date: '2018-06-12'
 tags: ['Adobe', 'Internship', 'New York']

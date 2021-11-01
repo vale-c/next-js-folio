@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-title: 'Hello World'
+title: 'Hello World 🌎'
 description: 'Welcome to my Portfolio Website!'
 date: '2018-04-05'
 tags: ['Hello World', 'Hi', 'Welcome']

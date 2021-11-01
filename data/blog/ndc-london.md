@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-title: 'NDC LONDON 2018'
+title: 'NDC LONDON 2018 🇬🇧'
 description: 'My experience at NDC London'
 date: '2018-01-30'
 tags: ['NDC', 'London', 'Tech', 'Conference', '2018']

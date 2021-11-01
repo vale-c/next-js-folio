@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-title: 'Resilience'
+title: 'Resilience 🦾'
 description: 'The importance of being unshakable.'
 date: '2018-06-12'
 tags: ['Resilience', 'Motivation', 'Thoughts']

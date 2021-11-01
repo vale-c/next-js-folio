@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-title: 'My Adobe Internship'
+title: 'My Adobe Internship 🏙️'
 description: '3 months in NY'
 date: '2018-11-03'
 tags: ['Adobe', 'Internship Offer', 'Front-end Engineer']

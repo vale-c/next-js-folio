@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-title: 'Design Principles and why they matter (a lot)'
+title: 'Design Principles 🎨 and why they matter (a lot)'
 description: 'Design Principles'
 date: '2021-06-02'
 tags: ['Design Principles', 'Design Systems', 'UI', 'UX']

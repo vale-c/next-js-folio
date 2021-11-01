@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-title: 'Summer 2021'
+title: 'Summer 2021 🏖️'
 description: 'Taking a quick Summer break.'
 date: '2021-05-22'
 tags: ['Summer 2021', 'OMSCS']

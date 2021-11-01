@@ -21,7 +21,10 @@ export default function Home() {
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <div className="pt-6 pb-8 space-y-2 md:space-y-5">
         <h1 className="text-4xl font-extrabold leading-9 text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-          Hey 👋🏻
+          Hey{' '}
+          <span role="img" aria-label="wave-hand-emoji">
+            👋🏻
+          </span>
         </h1>
         <h1 className="text-4xl font-extrabold leading-9 text-purple-400 dark:text-green-400 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
           I'm Valentina.

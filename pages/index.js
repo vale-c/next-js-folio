@@ -2,6 +2,7 @@ import Link from '@/components/Link'
 import { PageSEO } from '@/components/SEO'
 import siteMetadata from '@/data/siteMetadata'
 import Bitmoji from '../components/Bitmoji'
+import AnimatedHeading from '@/components/AnimatedHeading'
 import { motion } from 'framer-motion'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
@@ -38,6 +39,7 @@ export default function Home({ posts }) {
         <h1 className="my-12 text-3xl text-gray-500 dark:text-gray-400">
           {siteMetadata.description}
         </h1>
+        <AnimatedHeading title="<code />" />
         <div className="flex justify-end">
           <motion.div animate={{ rotate: 5 }} transition={{ delay: 0.3 }}>
             <Bitmoji />

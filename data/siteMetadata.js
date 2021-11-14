@@ -2,7 +2,7 @@ const siteMetadata = {
   title: `Front-end Vale's Blog`,
   author: 'Valentina Calabrese',
   headerTitle: '',
-  description: 'I design and shape digital products and bring them to life through code.',
+  description: `I design and shape digital products and bring them to life through`,
   language: 'en-us',
   siteUrl: 'https://frontendvale.me',
   siteRepo: 'https://github.com/vale-c/',

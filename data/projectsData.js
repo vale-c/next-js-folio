@@ -6,10 +6,10 @@ const projectsData = [
     href: 'https://citystats.netlify.app/',
   },
   {
-    title: 'Easy Bank Landing Page',
-    description: `This is a fun design to code challenge where I built a landing page using Tailwind CSS.`,
-    imgSrc: '/static/images/projects/easybank-landing.jpg',
-    href: 'https://easybank-landing.vercel.app/',
+    title: 'Momentum Dashboard Clone',
+    description: `My own custom version of the Momentum Dashboard built with React.js.`,
+    imgSrc: '/static/images/projects/momentum.png',
+    href: 'https://new-momentum-dash.vercel.app/',
   },
   {
     title: 'Github User Stats',
@@ -18,10 +18,10 @@ const projectsData = [
     href: 'https://reactjsgithubfinder.netlify.com/',
   },
   {
-    title: 'Momentum Dashboard Clone',
-    description: `My own custom version of the Momentum Dashboard built with React.js.`,
-    imgSrc: '/static/images/projects/momentum.png',
-    href: 'https://momentumdash.netlify.com/',
+    title: 'Easy Bank Landing Page',
+    description: `This is a fun design to code challenge where I built a landing page using Tailwind CSS.`,
+    imgSrc: '/static/images/projects/easybank-landing.jpg',
+    href: 'https://easybank-landing.vercel.app/',
   },
 ]
 

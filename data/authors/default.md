@@ -15,6 +15,6 @@ My name is Valentina and I am a passionate **Front-end Software Engineer** with 
 
 I genuinely enjoy thinking about Usability, and love to make great Designs come to life through `<code />`.
 
-<hr />
+In my spare time I enjoy playing the drums <span role="img" aria-label="drums-emoji">🥁</span>, reading books about personal finance & self-improvement <span role="img" aria-label="books-emoji">📚</span>, and expanding my knowledge about cryptocurrencies <span role="img" aria-label="books-emoji">💱</span>.
 
 Feel free to get a copy of my [CV](https://drive.google.com/file/d/1BWQfwZdzvKgJEWsxtYdsTVaXvOQ8YwqN/view?usp=sharing) if you wanna learn something more about my background and experience.
